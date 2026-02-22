@@ -1,0 +1,6 @@
+.heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 2.4rem;
+}
